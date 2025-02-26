@@ -57,5 +57,5 @@ proyecto_5/
 - Se recomienda verificar que Java 17 esté instalado antes de compilar.
 
 ## Autor
-- Desarrollado por [Tu Nombre]
+- Desarrollado por Ricardo Suero
 
